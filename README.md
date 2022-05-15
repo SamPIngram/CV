@@ -1,3 +1,3 @@
 # Sam Ingram CV Repository
 
-This is a light representation on my current CV.
+This is the respository that serves the static page for my current [CV](http://sampingram.com/CV/).
